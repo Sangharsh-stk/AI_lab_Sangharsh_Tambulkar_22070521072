@@ -1,6 +1,5 @@
-//Name-Devansh Motghare
-//PRN-22070521076
-
+//Name-Sangharsh Tambulkar
+//PRN-22070521072
 
 #include <stdbool.h>
 #include <stdio.h>
